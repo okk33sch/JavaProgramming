@@ -1,0 +1,10 @@
+1. Write a program that can return the nth largest number from an arraylist
+
+//do not use the sort method
+
+                arraylist = {1,2,3,4,5,6,7,8}
+                n = 5;
+
+                output:
+                4
+
